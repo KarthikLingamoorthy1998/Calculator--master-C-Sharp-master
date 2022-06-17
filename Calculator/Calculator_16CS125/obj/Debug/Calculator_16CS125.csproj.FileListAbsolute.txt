@@ -1,0 +1,12 @@
+c:\users\personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\bin\Debug\Calculator_16CS125.exe
+c:\users\personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\bin\Debug\Calculator_16CS125.pdb
+c:\users\personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.csprojResolveAssemblyReference.cache
+c:\users\personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.Properties.Resources.resources
+c:\users\personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.Trignometric.resources
+c:\users\personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.csproj.GenerateResource.Cache
+c:\users\personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.exe
+c:\users\personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.pdb
+C:\Users\Personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.BMI.resources
+C:\Users\Personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.Form1.resources
+C:\Users\Personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.basic.resources
+C:\Users\Personal\documents\visual studio 2012\Projects\Calculator_16CS125\Calculator_16CS125\obj\Debug\Calculator_16CS125.Intro.resources
